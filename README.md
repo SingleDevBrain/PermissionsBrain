@@ -41,7 +41,7 @@ version: [![](https://jitpack.io/v/zeeshan00084/PermissionsBrain.svg)](https://j
 ```kotlin 
 
     dependencies {
-	        implementation("com.github.SingleDevBrain:PermissionsBrain:version")
+	        implementation("com.github.Zeeshan-Majeed:PermissionsBrain:version")
 	}
  
 ```
